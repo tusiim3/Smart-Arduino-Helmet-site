@@ -36,7 +36,7 @@ Smart-Arduino-Helmet-site/
 ├── LICENSE
 ├── poster/
 │   └── SMART ARDUINO HELMET.png
-└── website/
+└── docs/
     ├── index.html
     ├── css/
     ├── js/
