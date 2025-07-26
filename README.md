@@ -52,4 +52,5 @@ Smart-Arduino-Helmet-site/
 - [Weredwong J. Precious](https://github.com/jaidenjaiden)
 
 
-- **Institution:** Makerere University, Uganda
+ ## Institution: 
+ Makerere University, Uganda
