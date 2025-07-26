@@ -1,17 +1,17 @@
-# ResQnet Website
+# Smart Arduino Helmet Website
 
-Official website for ResQnet - Smart Motorcycle Safety System
+Official website for Smart Arduino Helmet - Smart Motorcycle Safety System
 
 ## Overview
 
-ResQnet is an IoT-based motorcycle safety system that combines a smart helmet with crash detection technology to provide real-time emergency alerts and location tracking for motorcycle riders in Uganda.
+Smart Arduino Helmet is an IoT-based motorcycle safety system that combines ResQnet mobile app and a smart helmet with crash detection technology to provide real-time emergency alerts and location tracking for motorcycle riders in Uganda.
 
 ## Features
 
 - **Project Information** - Learn about ResQnet's mission and technology
 - **Problem & Solution** - Understanding the boda boda safety challenge
 - **Technology Stack** - Arduino-based hardware and embedded systems
-- **Team Information** - Meet the Makerere University development team
+- **Team Information** - Meet the development team
 - **Demo Videos** - Interactive showcase of the system features
 
 ## Tech Stack
@@ -19,7 +19,6 @@ ResQnet is an IoT-based motorcycle safety system that combines a smart helmet wi
 - HTML5, CSS3, JavaScript
 - Responsive design for mobile and desktop
 - Font Awesome icons
-- CSS Grid and Flexbox layouts
 
 ## Quick Start
 
@@ -46,14 +45,12 @@ Smart-Arduino-Helmet-site/
 
 ## Development Team
 
-Computer Science students from Makerere University:
-- Tusiime Mark
-- Okure Enock  
-- Namuyimbwa Martha
-- Ayebare Atuhaire Eunice
-- Weredwong J. Precious
+- [Tusiime Mark](https://github.com/tusiim3)
+- [Namuyimbwa Martha](https://github.com/marthakukiriza)
+- [Okure Enock](https://github.com/Kulekule2003)
+- [Ayebare Atuhaire Eunice](https://github.com/Eunice67)
+- [Weredwong J. Precious](https://github.com/jaidenjaiden)
 
-## Contact
 
-- **Email:** smartbodahelmet@mak.ac.ug
-- **Institution:** Makerere University, Uganda
+ ## Institution: 
+ Makerere University, Uganda
